@@ -1,2 +1,2 @@
 # explore-typescript
-#typescrip fundamentals
+#typescript fundamentals
